@@ -19,7 +19,7 @@ samples, guidance on mobile development, and a full API reference.
 Output - 
 
 <p align="center">
-  <img src="https://github.com/patugosavi/FlutterBlocTutorialUsingBlocProvider/blob/master/assets/correct%20credentitials.png" alt="Correct credentitials width="45%">
+  <img src="https://github.com/patugosavi/FlutterBlocTutorialUsingBlocProvider/blob/master/assets/correct%20credentitials.png" alt="Correct credentitials" width="45%">
   <img src="https://github.com/patugosavi/FlutterBlocTutorialUsingBlocProvider/blob/master/assets/correct%20credentitials%20response.png" alt="Correct credentitials response" width="45%">
 </p>
 <p align="center">
